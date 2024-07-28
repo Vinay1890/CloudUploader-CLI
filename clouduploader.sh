@@ -9,7 +9,7 @@ fi
 FILE=$1
 TARGET_DIR=$2
 BUCKET_NAME="clouduploaderfile"
-REGION="ap-south-1"  # Replace with your actual region
+REGION="ap-south-1"  
 
 # Check if the file exists
 if [ ! -f "$FILE" ]; then
