@@ -9,4 +9,4 @@ CloudUploader is a bash-based CLI tool that allows users to quickly upload files
 
 ## Usage
 ```bash
-clouduploader /path/to/file [target_directory]
+./clouduploader.sh /path/to/file [target_directory]
